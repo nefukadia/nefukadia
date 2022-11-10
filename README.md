@@ -13,7 +13,7 @@ Note:This is Kadia's personal work library. There may be some personal small ide
 #### Update date: October 31, 2022 
 
 ## All repositories
-- [iconnect](https://github.com/nefukadia/iconnect)
+- [easycache](https://github.com/nefukadia/easycache)
 - [MIT6.824notes](https://github.com/nefukadia/MIT6.824notes)
 - [KBlog_springboot](https://github.com/nefukadia/KBlog_springboot)
 - [KBlog_vue](https://github.com/nefukadia/KBlog_vue)
